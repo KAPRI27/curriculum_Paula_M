@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#postulante{
+    margin-top: 20px;
+    width: 150px;
+    height: auto;
+
+}
+
+h1{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(255, 235, 212);
+}
+
+
+nav{
+    text-align: center;
+    background-color: rgb(250, 181, 158);
+    padding: 20px;
+}
+ul li{
+    font-size: 25px;
+    display: inline-flex;
+    text-align: center;
+}
+
+li a{
+    text-align: center;
+    color:rgb(111, 48, 170);
+    text-decoration: none;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+
+#nombre{
+    font-size: 35px;
+    color:rgb(102, 124, 167);
+}
+
+#info_educacion{
+    background-color: #cedaf5;
+}
+
+#resumen{
+    background-color: #f8d39a;
+}
+
+section{
+    margin-top: 20px;
+    padding: 20px;
+}
+
+
+footer{
+    height: 100px;
+    background-color: rgb(250, 181, 158);
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}
